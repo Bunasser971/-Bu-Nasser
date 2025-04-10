@@ -1,0 +1,20 @@
+fx_version 'adamant'
+game 'gta5'
+lua54 'yes'
+
+
+data_file "PED_METADATA_FILE" "stream/**/peds.meta"
+data_file 'HANDLING_FILE' 'stream/**/handling.meta'
+data_file 'VEHICLE_METADATA_FILE' 'stream/**/vehicles.meta'
+data_file 'CARCOLS_FILE' 'stream/**/carcols.meta'
+data_file 'VEHICLE_LAYOUTS_FILE' 'stream/**/vehiclelayouts.meta'
+data_file 'VEHICLE_VARIATION_FILE' 'stream/**/carvariations.meta'
+data_file 'DLCTEXT_FILE' 'stream/**/dlctext.meta'
+data_file 'CARCONTENTUNLOCKS_FILE' 'stream/**/carcontentunlocks.meta'
+data_file 'WEAPONINFO_FILE_PATCH' 'stream/**/weapons.meta'
+data_file 'WEAPONCOMPONENTSINFO_FILE' 'stream/**/weaponcomponents.meta'
+data_file 'HANDLING_FILE' 'stream/**/handling1.meta'
+data_file 'VEHICLE_METADATA_FILE' 'stream/**/vehicles1.meta'
+data_file 'CARCOLS_FILE' 'stream/**/carcols1.meta'
+data_file 'VEHICLE_LAYOUTS_FILE' 'stream/**/vehiclelayouts1.meta'
+data_file 'VEHICLE_VARIATION_FILE' 'stream/**/carvariations1.meta'
